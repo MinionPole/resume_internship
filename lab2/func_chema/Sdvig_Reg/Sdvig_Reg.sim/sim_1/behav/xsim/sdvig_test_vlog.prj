@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Sdvig_Reg.srcs/sources_1/new/sdvig.v" \
+"../../../../Sdvig_Reg.srcs/sim_1/new/sdvig_test.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/user/Desktop/Юнусов/func_chemas/Work/func_chema/Sdvig_Reg/Sdvig_Reg.srcs/sources_1/new/sdvig.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sdvig
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/user/Desktop/Юнусов/func_chemas/Work/func_chema/Sdvig_Reg/Sdvig_Reg.srcs/sim_1/new/sdvig_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sdvig_test
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/user/Desktop/Юнусов/func_chemas/Work/func_chema/Sdvig_Reg/Sdvig_Reg.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
